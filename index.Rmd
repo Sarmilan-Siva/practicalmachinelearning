@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 ---
 output: 
   html_document: 
     keep_md: yes
 ---
+=======
+>>>>>>> ae1a7f499f11379e729e1917f2673ec63d4da71a
 #**Human Activity Recognition (HAR) using Machine Learning Methods**#
 ##Course Project - Practical Machine Learning
 ####**Sarmilan, December 24, 2016**####
